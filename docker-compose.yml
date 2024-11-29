@@ -1,0 +1,5 @@
+services:
+  split_msg:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
